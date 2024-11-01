@@ -13,3 +13,5 @@ print(type("Krakow University of Economics"));
 print(type(True));
 # vii
 print(type(2 > 5));
+
+
